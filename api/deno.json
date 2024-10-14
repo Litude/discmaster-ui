@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "dev": "denon run --allow-net --allow-read src/index.ts"
+  }
+}

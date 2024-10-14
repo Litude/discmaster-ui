@@ -1,0 +1,22 @@
+.container {
+  display: flex;
+}
+
+.container .search {
+  display: flex;
+  flex-direction: column;
+}
+
+.page-number {
+  padding: 0 0.25rem;
+  text-decoration: underline;
+  cursor: pointer;
+  color: rgb(0, 102, 204);
+}
+
+table {
+  border-color: #e6e6e6;
+}
+.container > * {
+  padding: 0rem 1rem;
+}
